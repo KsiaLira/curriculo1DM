@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: left;
+    width: 800px;
+    margin-left: 30%;  
+}
+
+  header{
+    display:flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40xp;
+    padding right: 40px;
+    background-color: 
+    front-size:12xp;
+    front-family:
+}
+h1, h2 {
+    text-transform: uppercase;
+}
+   img{
+    width: 200px;
+    height: 250px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+text-decoration: underline;
+}
